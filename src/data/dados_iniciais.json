@@ -1,0 +1,61 @@
+{
+  "categorias": [
+    {
+      "titulo": "Diversão",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Vida de um gato um pouco diferente",
+        "url": "https://www.youtube.com/watch?v=vASw0m6YdWs&feature=youtu.be"
+      },
+      "videos": [
+        {
+          "titulo": "Gato na Quarentena",
+          "url": "https://www.youtube.com/watch?v=LL8bPcx6RzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Home Office",
+          "url": "https://www.youtube.com/watch?v=vASw0m6YdWs&feature=youtu.be"
+        },
+        {
+          "titulo": "Você é a mamãe?",
+          "url": "https://www.youtube.com/watch?v=6rothRN99sk&feature=youtu.be"
+        },
+        {
+          "titulo": "Gatos Engraçados",
+          "url": "https://www.youtube.com/watch?v=0EHGiXxO_-I&feature=youtu.be"
+        },
+        {
+          "titulo": "Na Academia",
+          "url": "https://www.youtube.com/watch?v=lXQI6L-sMTM&feature=youtu.be"
+        }
+      ]
+      },
+    {
+      "titulo": "Cuidados",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#FB8261",
+      "link_extra": {
+        "text": "Conhecendo seu bichinho",
+        "url": "https://www.youtube.com/watch?v=yodPKiQXLo4&feature=youtu.be"
+      },
+      "videos": [
+        {
+          "titulo": "Conhecendo seu bichinho",
+          "url": "https://www.youtube.com/watch?v=r7XNa_Rt7C0&feature=youtu.be"
+        },
+        {
+          "titulo": "Conhecendo seu bichinho",
+          "url": "https://www.youtube.com/watch?v=yodPKiQXLo4&feature=youtu.be"
+        },
+        {
+          "titulo": "Conhecendo seu bichinho",
+          "url": "https://www.youtube.com/watch?v=7qjYDpdeWs0&feature=youtu.be"
+        },
+        {
+          "titulo": "Conhecendo seu bichinho",
+          "url": "https://www.youtube.com/watch?v=un8a4lSCdmM&feature=youtu.be"
+        }        
+      ]
+    }
+  ]
+}
